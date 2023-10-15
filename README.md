@@ -1,6 +1,6 @@
-### Hi there 👋
+ 👋
 
-edited README.md file in the root of this repo.
+
 
 <!--
 **27Stanley/27Stanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
