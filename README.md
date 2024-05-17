@@ -11,7 +11,7 @@
   <p>
   🔹  Languages: JavaScript using Node, Python.
   
-  🔸  Front End: React.js, React Native, Vue, HTML, CSS, Axios, Node Fetch.
+  🔸  Front End: React.js, React Native, Vue, HTML, CSS, Axios, Node Fetch, Framer Motion.
   
   🔹  CSS Libraries: Tailwind, Material UI.
   
