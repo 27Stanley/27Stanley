@@ -1,5 +1,23 @@
  👋
 
+🔹  Languages: JavaScript using Node, Python.
+
+🔸  Front End: React.js, React Native, Vue, HTML, CSS, Axios, Node Fetch.
+
+🔹  CSS Libraries: Tailwind, Material UI.
+
+🔸  Backend: Express.js, SQL, PSQL, MongoDB
+
+🔹  Testing: Jest, SuperTest, Lighthouse.
+
+🔸  Agile Development: Code reviews, stand ups, sprints, and git version control.
+
+🔹  Hosting: ElephantSql, Netlify, Render, Heroku.
+
+🔸  Other Skills: Pair Programming, Technical Communication, SDL, Agile, SCRUM methodologies
+
+🔹  Other Software: Solidworks, Blender, Keyshot, Photoshop, Illustrator. 
+
 
 
 <!--
