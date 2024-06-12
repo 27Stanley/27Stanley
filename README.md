@@ -9,7 +9,7 @@
  </p>
   <h3>Skills:</h3>
   <p>
-  🔹  Languages: JavaScript using Node, Python.
+  🔹  Languages: JavaScript using Node on Ubuntu, Python on Windows.
   
   🔸  Front End: React.js, React Native, Vue, HTML, CSS, Axios, Node Fetch, Framer Motion.
   
