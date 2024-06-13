@@ -17,7 +17,7 @@
   
   🔸  Backend: Express.js, SQL, PSQL, MongoDB
   
-  🔹  Testing: Jest, SuperTest, Lighthouse.
+  🔹  Testing: Jest, SuperTest, Lighthouse. React Devtools, Vue Devtools
   
   🔸  Agile Development: Code reviews, stand ups, sprints, and git version control.
   
