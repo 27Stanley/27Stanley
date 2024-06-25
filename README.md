@@ -2,7 +2,7 @@
  <h1>👋</h1>
   <h3>About:</h3>
  <p>
-  🌱  A creative tech enthusiast who is passionate about software development and computers.
+  🌱  Passionate developer with experience in computer hardware and software development, accustomed to high-stress environments. Highly adaptable, dedicated to learning new techniques, and a team player but also able to work independently..
  </p>
   <p>
   📍  Based in London.
@@ -26,6 +26,8 @@
   🔸  Other Skills: Pair Programming, Technical Communication, SDL, Agile, SCRUM methodologies
   
   🔹  Other Software: Solidworks, Fusion360, Blender, Keyshot, Photoshop, Illustrator. 
+
+  🌱 I’m currently learning: Unity, PHP, Jquery and looking into using Stripe payment system.
   </p>
 </div>
 
