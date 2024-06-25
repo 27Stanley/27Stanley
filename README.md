@@ -9,23 +9,23 @@
  </p>
   <h3>Skills:</h3>
   <p>
-  🔹  Languages: JavaScript using Node on Ubuntu, Python on Windows.
+  🔹  Languages: JavaScript using Node and Typescript on Ubuntu, Python on Windows.
   
-  🔸  Front End: React.js, React Native, Vue, HTML, CSS, Axios, Node Fetch, Framer Motion.
+  🔸  Front End: HTML, CSS, React.js, React Native, Vue, Axios, Node Fetch, Framer Motion, Kivy.
   
   🔹  CSS Libraries: Tailwind, Material UI.
   
-  🔸  Backend: Express.js, SQL, PSQL, MongoDB
+  🔸  Backend: Express.js, Seeding, SQL, PSQL, MongoDB, Firebase 
   
-  🔹  Testing: Jest, SuperTest, Lighthouse. React Devtools, Vue Devtools
+  🔹  Testing: Jest, SuperTest, Lighthouse. React Devtools, Vue Devtools, Rest Client, Insomnia.
   
   🔸  Agile Development: Code reviews, stand ups, sprints, and git version control.
   
-  🔹  Hosting: ElephantSql, Netlify, Render, Heroku.
+  🔹  Hosting: ElephantSql, SupaBase, Netlify, Render.
   
   🔸  Other Skills: Pair Programming, Technical Communication, SDL, Agile, SCRUM methodologies
   
-  🔹  Other Software: Solidworks, Blender, Keyshot, Photoshop, Illustrator. 
+  🔹  Other Software: Solidworks, Fusion360, Blender, Keyshot, Photoshop, Illustrator. 
   </p>
 </div>
 
