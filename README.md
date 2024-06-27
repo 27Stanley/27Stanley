@@ -27,7 +27,10 @@
   
   🔹  Other Software: Solidworks, Fusion360, Blender, Keyshot, Photoshop, Illustrator. 
 
-  🌱 I’m currently learning: Unity, PHP, Jquery and looking into using Stripe payment system.
+  🔭 I’m currently building: 
+      - an ecommerce website selling 3d goods using typescript and firestore using stype payment system.
+      - a sports tactical analysis tool using python and kivy.
+      - a tower defence game using unity.
   </p>
 </div>
 
