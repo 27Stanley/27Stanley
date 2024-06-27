@@ -27,11 +27,15 @@
   
   🔹  Other Software: Solidworks, Fusion360, Blender, Keyshot, Photoshop, Illustrator. 
 
-  🔭 I’m currently building: 
-      - an ecommerce website selling 3d goods using typescript and firestore using stype payment system.
-      - a sports tactical analysis tool using python and kivy.
-      - a tower defence game using unity.
   </p>
+
+  <p>
+     🔭 I’m currently building: 
+   </p>
+      <p>- an ecommerce website selling 3d goods using typescript and firestore using stype payment system.</p>
+      <p>- a sports tactical analysis tool using python and kivy.</p>
+      <p>- a tower defence game using unity.</p>
+  
 </div>
 
 
