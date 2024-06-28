@@ -21,7 +21,7 @@
   
   🔸  Agile Development: Code reviews, stand ups, sprints, and git version control.
   
-  🔹  Hosting: ElephantSql, SupaBase, Netlify, Render.
+  🔹  Hosting: ElephantSql, SupaBase, Netlify, Render, Vercel.
   
   🔸  Other Skills: Pair Programming, Technical Communication, SDL, Agile, SCRUM methodologies
   
