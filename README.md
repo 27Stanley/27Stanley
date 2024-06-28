@@ -32,9 +32,9 @@
   <p>
      🔭 I’m currently building: 
    </p>
-      <p>- an ecommerce website selling 3d goods using typescript and firestore using stype payment system.</p>
+      <p>- an ecommerce website selling 3d goods using typescript, three.js and firestore using stripe payment system.</p>
       <p>- a sports tactical analysis tool using python and kivy.</p>
-      <p>- a tower defence game using unity.</p>
+      <p>- a tower defence game using unity and C#.</p>
   
 </div>
 
