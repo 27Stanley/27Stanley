@@ -32,8 +32,10 @@
   <p>
      🔭 I’m currently building: 
    </p>
-      <p>- an ecommerce website selling 3d goods using typescript, three.js and firestore using stripe payment system.</p>
-      <p>- a sports tactical analysis tool using python and kivy.</p>
+      <p>- an ecommerce website selling 3d goods using typescript, three.js and firestore using stripe payment system:</p>
+      <p>[https://github.com/27Stanley/pitchTactics](https://github.com/27Stanley/kerry3dwarehouse)</p>
+      <p>- a sports tactical analysis tool using python and kivy:</p>
+      <p>https://github.com/27Stanley/pitchTactics</p>
       <p>- a tower defence game using unity and C#.</p>
   
 </div>
